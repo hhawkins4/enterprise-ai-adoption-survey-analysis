@@ -27,17 +27,14 @@ The final analysis found that:
 - one open-ended survey question produced limited analytical value and was redesigned for better comparability
 
 ## Files
-- `notebooks/01_data_cleaning_and_summary.ipynb`  
+- `01_data_cleaning_and_summary.ipynb`  
   Cleans the survey export, groups question types, calculates counts and percentages, and produces a summary results file.
 
-- `notebooks/02_visualization_and_reporting.ipynb`  
+- `02_visualization_and_reporting.ipynb`  
   Uses the processed summary file to build polished horizontal bar charts for presentation-ready reporting.
 
-- `data/processed/survey_summary_results.xlsx`  
+- `survey_summary_results.xlsx`  
   Cleaned summary table generated from the analysis notebook.
-
-- `outputs/`  
-  Contains exported charts and the final executive-summary style PDF.
 
 ## Methods
 ### Data Preparation
